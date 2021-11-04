@@ -1,1 +1,1 @@
-# BrineThermoModel
+# Pitzer Brine Model
